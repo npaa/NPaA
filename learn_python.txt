@@ -1,0 +1,3 @@
+http://www.learnpython.org
+https://www.codecademy.com/learn/python
+https://www.python.org/about/gettingstarted/
