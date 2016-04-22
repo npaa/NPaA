@@ -1,0 +1,2 @@
+https://blog.jetbrains.com/pycharm/2016/01/introducing-getting-started-with-pycharm-video-tutorials/
+https://www.jetbrains.com/help/pycharm/5.0/quick-start-guide.html
